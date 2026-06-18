@@ -1,6 +1,6 @@
 # AI Skills Fest 2026
 
-![AI Skills Fest 2026 Badge](badge.png)
+![AI Skills Fest 2026 Badge](AI-Skills-Fest-2026-Badge.png)
 
 ...
 ## Overview
