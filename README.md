@@ -1,5 +1,8 @@
 # AI Skills Fest 2026
 
+![AI Skills Fest 2026 Badge](badge.png)
+
+...
 ## Overview
 
 This repository documents my learning journey through Microsoft AI Skills Fest 2026.
